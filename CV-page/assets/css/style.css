@@ -151,12 +151,14 @@ header {
 
 #nav li {
     padding: 0;
+    margin-right: 0em;
 }
 
 .menuitem {
     height: 120px;
     text-align: center;
     padding: 0;
+    
 }
 
 .menuitem a {
